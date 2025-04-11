@@ -1,0 +1,4 @@
+repository "AoE_GuitarHero_2D/AoE_GuitarHero_2D@1375345578259@cloud"
+  path "/"
+    br "/main"
+    co "/main"
